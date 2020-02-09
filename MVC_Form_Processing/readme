@@ -1,0 +1,11 @@
+This project is developed to learn the spring core and spring MVC. 
+This project is simple Model (i.e. Player, Reservation and SportType), View (Reservation Service) and Controller (FormController, 
+queryController) representation.
+This project get the playername, sport date, player number and sport type from the user.
+Shows the timetable and find the particular sport or player from the uploaded data.
+
+To Start the tomcat server:
+
+    go to windows ->
+    select show view ->
+    select server. i. select apache tomcat and give the tomcat directory path.
